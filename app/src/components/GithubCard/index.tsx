@@ -9,7 +9,7 @@ const GithubCard = () => {
 			<div className="flex-col pl-4 py-6 grid grid-cols-[1fr_110px] items-start gap-4 space-y-0">
 				<div className="space-y-1">
 					<h3 className="font-semibold leading-none tracking-tight pb-3">
-						paanSinghCoder/options-analytics
+						OptimizationGuru/trade-inisghts
 					</h3>
 					<p className="text-xs opacity-70 text-muted-foreground">
 						Open source project focused on demonstrating minimal UI for Options Analytics and
