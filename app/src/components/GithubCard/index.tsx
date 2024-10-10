@@ -52,7 +52,7 @@ const GithubCard = () => {
 						</svg>
 						<div className="text-xs">1</div>
 					</div>
-					<div className="text-xs">Updated February 2024</div>
+					<div className="text-xs">Updated October 2024</div>
 				</div>
 			</div>
 		</div>
