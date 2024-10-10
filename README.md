@@ -1,10 +1,10 @@
-Options analytics dashboard with dummy data built with Next JS, Tailwind, Typescript and PWA.
+Options insights dashboard with dummy data built with Next JS, Tailwind, Typescript and PWA.
 
 ## Getting Started
 
 First, run the development server:
 
-Demo here: https://tradex-options.vercel.app
+Demo here: https://options-insights.netlify.app/
 
 ```bash
 npm run dev
